@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CameraSDK/CameraSDK.iml" filepath="$PROJECT_DIR$/CameraSDK/CameraSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CameraSDKExample/CameraSDKExample.iml" filepath="$PROJECT_DIR$/CameraSDKExample/CameraSDKExample.iml" />
+    </modules>
+  </component>
+</project>
